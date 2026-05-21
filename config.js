@@ -11,7 +11,7 @@ window.__APP_CONFIG__ = {
     storageBucket: "pelisplex-52d2c.firebasestorage.app",
     messagingSenderId: "1049646716563",
     appId: "1:1049646716563:web:9259e4023aedb66912df66",
-    measurementId: "",
+    measurementId: "G-BHGQSM3FR3",
   },
   tmdb: {
     apiKey: "cc5b94165972aa509a349161d13d4fc9",
